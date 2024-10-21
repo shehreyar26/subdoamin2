@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacked</title>
+    <style>
+        body {
+            background-color: black;
+            color: red;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 100px;
+        }
+        h1 {
+            font-size: 50px;
+        }
+        img {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>This Domain has been hacked By Evil Doc</h1>
+    <img src="/mnt/data/A_hacker_wearing_a_black_hoodie_in_a_dark_room_wit.png" alt="Hacker Image" width="400" height="300">
+</body>
+</html>
